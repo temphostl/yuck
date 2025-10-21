@@ -1,0 +1,17 @@
+/home/user/Documents/yuck/yuck/bin/Debug/net9.0/yuck
+/home/user/Documents/yuck/yuck/bin/Debug/net9.0/yuck.deps.json
+/home/user/Documents/yuck/yuck/bin/Debug/net9.0/yuck.runtimeconfig.json
+/home/user/Documents/yuck/yuck/bin/Debug/net9.0/yuck.dll
+/home/user/Documents/yuck/yuck/bin/Debug/net9.0/yuck.pdb
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.csproj.AssemblyReference.cache
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.GeneratedMSBuildEditorConfig.editorconfig
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.AssemblyInfoInputs.cache
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.AssemblyInfo.cs
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.csproj.CoreCompileInputs.cache
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.csproj.Up2Date
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.dll
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/refint/yuck.dll
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.pdb
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.genruntimeconfig.cache
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/ref/yuck.dll
+/home/user/Documents/yuck/yuck/bin/Debug/net9.0/Newtonsoft.Json.dll
