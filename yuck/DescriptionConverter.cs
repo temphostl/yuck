@@ -1,7 +1,7 @@
-namespace yuck;
-
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
+
+namespace yuck;
 
 public class DescriptionConverter : JsonConverter<Description>
 {

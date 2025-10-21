@@ -5,7 +5,6 @@ using Newtonsoft.Json;
 using static yuck.Writer;
 
 namespace yuck;
-
 public class Pinger
 {
     private string ip;

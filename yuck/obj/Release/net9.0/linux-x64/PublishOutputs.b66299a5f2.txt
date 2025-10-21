@@ -1,0 +1,2 @@
+/home/user/Documents/yuck/yuck/bin/Release/net9.0/linux-x64/publish/yuck.pdb
+/home/user/Documents/yuck/yuck/bin/Release/net9.0/linux-x64/publish/yuck
