@@ -15,3 +15,4 @@
 /home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.genruntimeconfig.cache
 /home/user/Documents/yuck/yuck/obj/Debug/net9.0/ref/yuck.dll
 /home/user/Documents/yuck/yuck/bin/Debug/net9.0/Newtonsoft.Json.dll
+/home/user/Documents/yuck/yuck/obj/Debug/net9.0/yuck.sourcelink.json
